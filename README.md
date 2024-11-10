@@ -31,4 +31,15 @@ o	Modeling and Validation: Actively worked on implementing and tuning the SVM an
 o	Shiny App Development: Contributed to designing and creating the Shiny app, making data insights more accessible to the HMO's stakeholders.
 
 
+This project aligns with the MS in Applied Data Science Program Learning Outcomes:
+Collect, store, and access data: Used R to manage and clean healthcare data from an HMO, ensuring data integrity for analysis.
 
+Create actionable insight: Derived insights into healthcare cost drivers (e.g., age, BMI, smoking), guiding the HMO toward targeted interventions to manage costs.
+
+Apply visualization and predictive models: Developed SVM and Regression Tree models and visualizations to identify high-cost groups.
+
+Use programming languages: Utilized R for data cleaning, modeling, and creating a Shiny app to present findings interactively.
+
+Communicate insights: Presented results via the Shiny app, making insights accessible for HMO stakeholders, project sponsors, and technical teams.
+
+Apply ethics: Ensured ethical considerations by focusing on fairness, minimizing biases, and protecting privacy in data use and model recommendations.
